@@ -8,3 +8,8 @@ A Kettle User Defined Java Class to help get TIFF metadata (and other raster ima
 - https://github.com/haraldk/TwelveMonkeys
 
 
+Thanks to TwelveMonkeys crew for their independent imageIO implementation [BSD]
+
+Thanks to Pentaho/Kettle for an easy to extend ETL tool [LGPL]
+
+Thanks to PDI-CMIS-plugin to place the analyzed TIFF files into a CMIS repository [GPL...wish was LGPL]: https://code.google.com/p/pdi-cmis-plugin/
